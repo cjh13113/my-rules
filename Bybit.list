@@ -1,1 +1,14 @@
-RULE-SET,https://raw.githubusercontent.com/cjh13113/my-rules/main/Bybit.list
+DOMAIN-SUFFIX,byabcd.com
+DOMAIN-SUFFIX,byabcde.com
+DOMAIN-SUFFIX,byapps.net
+DOMAIN-SUFFIX,bybdc6.com
+DOMAIN-SUFFIX,bybit.biz
+DOMAIN-SUFFIX,bybit.cloud
+DOMAIN-SUFFIX,bybit.com
+DOMAIN-SUFFIX,bybitglobal.com
+DOMAIN-SUFFIX,bybit-global.com
+DOMAIN-SUFFIX,bycsi.com
+DOMAIN-SUFFIX,byd3c3.com
+DOMAIN,ffbbbdc6d3c353211fe2ba39c9f744cd.com
+DOMAIN,ffe390afd658c19dcbf707e0597b846d.de
+
